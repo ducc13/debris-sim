@@ -39,7 +39,7 @@ Then open http://localhost:8000.
 
 ## Screenshot
 
-<!-- Add a screenshot or GIF here: !\[Orbital Debris Simulator](screenshot.png) -->
+<!--add screenshot later-->
 
 ## Repository contents
 
